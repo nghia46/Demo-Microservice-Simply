@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InventoryService",
+    "\\OrderService",
+    "\\OrderService\\OrderService",
+    "\\OrderService\\OrderService\\Controllers"
+  ],
+  "SelectedNode": "\\OrderService\\OrderService\\Controllers\\OrderController.cs",
+  "PreviewInSolutionExplorer": false
+}
